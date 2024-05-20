@@ -1,8 +1,8 @@
 ### Hi there 👋
-## My name is Josiah Andrews, a student at Western Nebraska Community College
+## My name is Josiah Andrews, a student at University of Nebraska Lincoln
 
 
-- 🔭 I’m currently working on getting my associates degree
+- 🔭 I’m currently working on getting my Bachelors degree
 - 🌱 I’m currently learning Java, Python, and C++
-- 📫 How to reach me: siah.drews@gmail.com (personal email) andrew77@wncc.edu (school email)
+- 📫 How to reach me: siah.drews@gmail.com (personal email)
 - 🎮 My favorite video game is Hollow Knight and I can't wait for Silksong to come out
