@@ -1,6 +1,5 @@
 ### Hi there 👋
-## My name is Josiah Andrews, a student at University of Nebraska Lincoln
-
+## My name is Josiah Andrews, a Computer Science Student
 
 - 🔭 I’m currently working on getting my Bachelors degree
 - 🌱 I’m currently learning Java, Python, and C++
